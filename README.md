@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [HereAfter](http://www.hereafter.digital/)
 
-- 🌱 I’m currently learning **Ruby on Rails, Javascript, React and SQL**
-
-- 👨‍💻 All of my projects are available at [https://ryandunsmuir.tech](https://ryandunsmuir.tech)
+- 🌱 I’m currently learning **Elixir, Phoenix, Ruby on Rails, Javascript and React**
 
 - 💬 Ask me about **Ruby & Ruby on Rails**
 
