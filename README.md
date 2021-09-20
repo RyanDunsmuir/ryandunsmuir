@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Web Developer from England</h3>
 
-- 🔭 I’m currently working on [HereAfter](http://www.hereafter.digital/)
+- 🔭 I work at [Coverflex](https://www.coverflex.com/)
 
-- 🌱 I’m currently learning **Elixir, Phoenix, Ruby on Rails, Javascript and React**
+- 🌱 I’m currently learning **Elixir, Phoenix, Ruby on Rails and Javascript**
 
-- 💬 Ask me about **Ruby & Ruby on Rails**
+- 💬 Ask me about **Elixir**
 
 - 📫 How to reach me **ryan.j.dunsmuir@gmail.com**
 
