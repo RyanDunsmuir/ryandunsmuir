@@ -3,13 +3,11 @@
 
 - 🔭 I work at [Coverflex](https://www.coverflex.com/)
 
-- 🌱 I’m currently learning **Elixir, Phoenix, Ruby on Rails and Javascript**
+- 🌱 I’m currently learning **Elixir, Phoenix, Ruby on Rails and React**
 
 - 💬 Ask me about **Elixir**
 
 - 📫 How to reach me **ryan.j.dunsmuir@gmail.com**
-
-- ⚡ Fun fact **I make music every day 🎹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
