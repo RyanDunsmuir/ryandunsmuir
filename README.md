@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Software Engineer from the UK 🇬🇧</h3>
 
-- 🔭 I currently work at [Coverflex](https://www.coverflex.com/)
+- 🔭 I currently work as a Freelance Full-Stack Software Engineer
 
 - 🌱 I use **Elixir, Phoenix, Ruby on Rails and React**
 
