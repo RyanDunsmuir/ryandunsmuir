@@ -1,20 +1,45 @@
-<h1 align="center">Hello 👋, I'm Ryan</h1>
-<h3 align="center">A passionate Software Engineer from the UK 🇬🇧</h3>
-
-- 🔭 I currently work as a Freelance Full-Stack Software Engineer
-
-- 🌱 I use **Elixir, Phoenix, Ruby on Rails and React**
-
-- 🏗️ Currently building something special with **Phoenix / Elixir**
-
-- 📫 How to reach me **ryan.j.dunsmuir@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryan-j-dunsmuir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-j-dunsmuir/" height="30" width="40" /></a>
+<h1 align="center">Ryan Dunsmuir</h1>
+<p align="center">
+  <em>Building software for the people who make the music.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  <a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="elixir" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://soundotter.com">Soundotter</a> ·
+  <a href="https://kansamples.com">KAN Samples</a> ·
+  <a href="https://linkedin.com/in/ryan-j-dunsmuir/">LinkedIn</a> ·
+  <a href="mailto:ryan.j.dunsmuir@gmail.com">Email</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandunsmuir&show_icons=true&locale=en" alt="ryandunsmuir" /></p>
+---
+
+### About
+
+I'm a software engineer and founder based in Lisbon. I build tools, platforms and infrastructure for the electronic music industry — and write drum & bass under [Archangel](#) on the side.
+
+Most of what I ship lives at the intersection of two things I care about: **owned audience infrastructure** for independent artists, and **production tooling** that respects the craft.
+
+### Currently
+
+- 🎛️ Founding **[Soundotter](https://soundotter.com)** — a Phoenix/Elixir SaaS helping electronic music artists build owned audiences (email + SMS) by gating sample downloads behind contact capture. Undercutting traditional CPLs by 10-25×.
+- 🥁 Running **[KAN Samples](https://kansamples.com)** — a sample pack store for DnB and UK dubstep producers, with an automated content pipeline built on Make + Claude + Shopify.
+- 🛠️ Available for select **freelance full-stack work** — Phoenix/Elixir, Rails, React. Music industry clients move to the front of the queue.
+
+### Stack
+
+**Daily drivers:** Elixir · Phoenix · LiveView · Ruby on Rails · React · TypeScript · PostgreSQL · Tailwind
+**Also fluent in:** Make.com automation · Shopify dev · Stripe · Mailchimp/Klaviyo APIs · the Anthropic API
+**Tinkering with:** Tauri (desktop apps) · Unreal Engine 5 (game dev side quest)
+
+### What I'm thinking about
+
+Independent artists shouldn't have to rent their audience from platforms that throttle their reach the moment they stop paying. The best long-term marketing infrastructure is owned, portable, and built on email + SMS. Most of the tools shipped to artists today don't get this. I'm trying to fix that one product at a time.
+
+### Reach me
+
+Best way is **[ryan.j.dunsmuir@gmail.com](mailto:ryan.j.dunsmuir@gmail.com)**. I read everything; I reply to most things.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryandunsmuir&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="Ryan's GitHub stats" />
+</p>
