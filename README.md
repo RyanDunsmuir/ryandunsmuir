@@ -14,7 +14,7 @@
 
 ### About
 
-I'm a software engineer and founder based in Lisbon. I build tools, platforms and infrastructure for the electronic music industry — and write drum & bass under [Archangel](#) on the side.
+I'm a software engineer and founder based in Lisbon. I build tools, platforms and infrastructure for the electronic music industry.
 
 Most of what I ship lives at the intersection of two things I care about: **owned audience infrastructure** for independent artists, and **production tooling** that respects the craft.
 
