@@ -39,7 +39,3 @@ Independent artists shouldn't have to rent their audience from platforms that th
 Best way is **[ryan.j.dunsmuir@gmail.com](mailto:ryan.j.dunsmuir@gmail.com)**. I read everything; I reply to most things.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryandunsmuir&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="Ryan's GitHub stats" />
-</p>
